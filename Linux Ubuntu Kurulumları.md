@@ -144,3 +144,13 @@ Enabling mod_rewrite
     </IfModule>
     
 > Kaynak https://www.digitalocean.com/community/tutorials/how-to-rewrite-urls-with-mod_rewrite-for-apache-on-ubuntu-16-04
+
+Herhangi bir uygulamayı kaldırmak için
+---------------------------------------------------------------------------------------------------------------------------
+    sudo apt autoremove uygulamaAdı
+    
+How do you use System.Drawing in .NET Core?
+---------------------------------------------------------------------------------------------------------------------------
+    sudo apt install libc6-dev 
+    sudo apt install libgdiplus
+https://www.hanselman.com/blog/HowDoYouUseSystemDrawingInNETCore.aspx
